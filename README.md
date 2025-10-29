@@ -1,15 +1,14 @@
 
-# 👋 Hey there, I’m Shlok  
+
+# 👋 Hey there I’m Shlok — Merging Code & Creativity  
 
 ## 🌟 About Me  
-💻 **Full Stack Developer | Robotics Enthusiast | Problem Solver**  
+💻 **Full Stack Developer | Robotics Innovator | Creative Problem Solver**  
 
-🔭 Currently working on **full-stack projects** integrating **software and hardware**.  
-👯 Open to collaborating on **MERN / Next.js**, **open-source**, and **hackathon** projects.  
-🤝 Seeking insights on **app scalability**, **machine learning integration**, and **UI/UX refinement**.  
-🌱 Continuously learning **DSA** and diving deeper into **advanced web development**.  
-💬 Ask me about **building projects from scratch**, **robotics & IoT**, or **balancing academics with self-growth**.  
-⚡ Fueled by **caffeine, curiosity, and controlled chaos** — always exploring and creating something new.  
+🚀 Building impactful full-stack solutions that blend **software and hardware**.  
+🤝 Open to **collaborations** in MERN, Next.js, and open-source innovation.  
+🌱 Expanding my skills in **DSA** and **advanced web development**.  
+⚡ Fueled by **curiosity, caffeine, and creation** — always building something new.   
 
 ---
 

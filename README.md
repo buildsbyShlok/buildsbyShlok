@@ -46,6 +46,19 @@
   </a>
 </p>
 
-<br>
 
 ![snake gif](https://github.com/buildsbyshlok/buildsbyshlok/blob/output/github-snake-dark.svg)
+
+
+<p align="center">
+  <a href="https://github.com/buildsbyShlok">
+    <img height="170" src="https://github-readme-stats-ten-iota-58.vercel.app/api?username=buildsbyShlok&show_icons=true&theme=github_dark&hide_border=true&hide=prs,contribs&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/buildsbyShlok">
+    <img height="170" src="https://github-readme-stats-ten-iota-58.vercel.app/api/top-langs/?username=buildsbyShlok&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Languages" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=buildsbyShlok&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+</p>

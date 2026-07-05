@@ -30,18 +30,25 @@
 </p>
 
 ---
-
 ## 📈 GitHub Analytics
 
 <p align="center">
   <a href="https://github.com/buildsbyShlok">
-    <img height="170" src="https://github-readme-stats-ten-iota-58.vercel.app/api?username=buildsbyShlok&show_icons=true&theme=github_dark&hide_border=true&hide=prs,contribs&include_all_commits=true&cache_seconds=86400" />
+    <img
+      height="170"
+      src="https://github-readme-stats-ten-iota-58.vercel.app/api?username=buildsbyShlok&show_icons=true&theme=github_dark&hide_border=true&hide=prs,contribs&include_all_commits=true&cache_seconds=86400&v=2"
+      alt="GitHub Stats"
+    />
   </a>
+
   <a href="https://github.com/buildsbyShlok">
-    <img height="170" src="https://github-readme-stats-ten-iota-58.vercel.app/api/top-langs/?username=buildsbyShlok&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=86400" />
+    <img
+      height="170"
+      src="https://github-readme-stats-ten-iota-58.vercel.app/api/top-langs/?username=buildsbyShlok&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=86400&v=2"
+      alt="Top Languages"
+    />
   </a>
 </p>
-
 ---
 
 ## 🐍 Contribution Graph
